@@ -1,0 +1,14 @@
+{
+    "editor.tabSize": 2,
+    "standard.autoFixOnSave": true,
+    "standard.usePackageJson": true,
+    "eslint.enable": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    "docthis.includeAuthorTag": true,
+}
