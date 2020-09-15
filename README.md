@@ -1,2 +1,2 @@
 # configs
-My configs for personl devices.
+My configs for personal devices.
